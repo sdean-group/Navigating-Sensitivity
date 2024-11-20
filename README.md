@@ -6,6 +6,8 @@ Our data is hosted on Hugging Face: https://huggingface.co/datasets/sdeangroup/N
 
 We provide python scripts for downloading and processing it and jupyter notebooks for analyzing it.
 
+We have either obeyed scraping rate limits, or received permission to collect data from our sources.
+
 ## ML/DDD
 This dataset augments rating data from the [MovieLens 25m dataset](https://grouplens.org/datasets/movielens/) [1] with content warnings collected from [Does the Dog Die?](https://www.doesthedogdie.com/), a community-driven platform for determining trigger warnings for media through a voting system. We provide a pickled dictionary, `ddd.pkl`, throuh Hugging Face with movies and their associated warnings. There are 137 distinct warnings included in the DDD dictionary. To generate `ml-ddd_sensitivity_table.csv` and `ml-ddd_interaction_table.csv`, run the following:
 ```
