@@ -6,6 +6,18 @@ Our data is hosted on Hugging Face: https://huggingface.co/datasets/sdeangroup/N
 We provide python scripts for downloading and processing it and jupyter notebooks for analyzing it.
 We have either obeyed scraping rate limits, or received permission to collect data from our sources.
 
+For additional details and discussion, please see our paper **Datasets for Navigating Sensitive Topics in
+Recommendation Systems** published in the resource track at WWW'25. If you use this dataset, please cite
+
+```
+@inproceedings{kovacs2025datasets,
+  title={Datasets for Navigating Sensitive Topics in Recommendation Systems},
+  author={Kovacs, Amelia and Chee, Jerry and Dean, Sarah},
+  booktitle={Proceedings of the ACM on Web Conference 2025},
+  year={2025}
+}
+```
+
 See [navigating_sensitivity_supplement.pdf](navigating_sensitivity_supplement.pdf) for supplemental information, including related work, additional analysis, and additional data on the datasets.
 
 ## ML/DDD
