@@ -80,6 +80,9 @@ The notebook `ao3/ao3_recommender_analysis.ipynb` trains and evaluates three rec
 ## Installs
 In order to run the data generation scripts or jupyter notebooks you need certain Python libraries installed. We suggest creating a conda environment for this project. All the packages can be installed with pip or conda.
 
+## Acknowledgements
+
+This work was partly funded by NSF CCF 2312774, NSF OAC-2311521, a gift from the LinkedIn-Cornell Bowers CIS Strategic Partnership, a PCCW Affinito-Stewart Award, and a Clare Booth Luce Undergrad Research Award.
 
 ## References
 [1] F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History
